@@ -1,2 +1,2 @@
 # physics
-thermodynamics and statistical mechanics
+review thermodynamics and statistical mechanics
